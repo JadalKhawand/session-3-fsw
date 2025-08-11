@@ -1,0 +1,100 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+  
+body{
+  font-family: Arial, sans-serif;
+  background-color: #bab3b3;
+  padding: 20px;
+  line-height: 1.5;
+}
+h6{
+  font-size: 200px;
+  color: red;
+}
+.title{
+  color: white;
+}
+h1{
+  color: black !important;
+}
+#header-2{
+  color: blue;
+}
+.purple{
+  margin-top: 10px;
+  color: purple;
+}
+ul, ol{
+  margin: 20px;
+  border: 2px solid red;
+  padding: 20px;
+  padding-left: 40px;
+  list-style-type:disc;
+}
+
+i{
+  color: blue;
+}
+
+hr{
+  border: none;
+  border: 3px dashed blue;
+  margin: 20px 0;
+  width: 200px;
+  margin: auto;
+}
+
+img{
+  margin: 20px 15px;
+  border-radius: 15px;
+}
+
+form{
+  margin: 20px 10px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input, textarea{
+  width: 100% !important;  
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+button{
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+}
+
+button:hover{
+  background-color: red;
+}
+
+table{
+  margin-top: 20px;
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+th,td{
+  padding: 10px;
+  text-align:left;
+}
+
+th{
+  background-color: #757578;
+  color: white;
+}
+
+h1{
+  font-size: 50px;
+}
